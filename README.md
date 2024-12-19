@@ -1,6 +1,6 @@
 # Chomp Game
 
-This project is a Java-based implementation of the **Chomp Game**, designed using the **Model-View-Controller (MVC)** architecture. The Chomp Game is a strategic two-player game played on a grid, where players take turns selecting a square and "eating" that square and all squares below and to the right. The objective is to avoid being forced to eat the "poisoned" square in the top-left corner.
+This project is a Java-based implementation of the **Chomp Game**, designed using the **Model-View-Controller (MVC)** architecture. The Chomp Game is a strategic two-player game played on a grid, where players take turns selecting a square and "eating" that square and all squares top and to the right. The objective is to avoid being forced to eat the "poisoned" square in the bottom-left corner.
 
 ## Table of Contents
 
