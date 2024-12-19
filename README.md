@@ -55,7 +55,7 @@ This project adheres to the MVC design pattern, ensuring a clean separation of c
 
    ```bash
    git clone https://github.com/klsavaj/PDP5010-ChompGame.git
-   cd PDP5010-ChompGame
+   cd Project-ChompGame
    ```
 
 2. **Open the Project in Your IDE**:
